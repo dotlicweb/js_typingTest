@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#main-text {
+  display: none;
+}
+#try-again {
+  display: none;
+  margin-top: 20px;
+  text-decoration: underline;
+  color: tomato;
+  cursor: pointer;
+}
+img {
+  max-width: 100%;
+  margin: auto;
+  display: block;
+}
